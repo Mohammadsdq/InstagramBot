@@ -1,6 +1,7 @@
 # Instaram Bot #
 Instagram User Bot.
-This bot runs on your account and shows the date of each day in your biography.
+This bot runs in your account and shows the date of each day and a random fact in your bio.
+
 
 ## Preview ##
 <img src="./prv.jpg" style="with: 80%">
@@ -13,9 +14,9 @@ Input:
 
 ## Features ##
 - Show date in your bio.
-- Add your bio.
+- Show fun fact in your bio.
+- Add your personal bio.
 - It is updated every 12 pm.
-
 
 
 ## Installation ##
@@ -35,6 +36,9 @@ Run main.py
 ## Changelog ##
 #### Version 1 ####
 + All files uploaded.
+#### Version 1.1 ####
++ Add Fun Fact.
+
 
 
 ## Comment ## 
